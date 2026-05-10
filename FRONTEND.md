@@ -1,6 +1,5 @@
 # SKIN HOUSE - Frontend Documentation
 
-**URL:** https://skinhouse.rickchew.com/
 **Framework:** CodeIgniter 3.1.10
 **App Version:** v1.5.1
 **Currency:** RM (Malaysian Ringgit)
